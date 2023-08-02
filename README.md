@@ -1,1 +1,1 @@
-Used python notebooks, R scripts and snippets of code utilities for my minor internship
+Used python notebooks, R scripts and other code snippets for my minor internship
